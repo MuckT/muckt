@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Learning JavaScript, HTML, CSS, Angular, Nx, Git
+- 🌱 I’m currently learning JavaScript, HTML, CSS, Angular, React, Nx, & Git
 - 👯 I’m looking to collaborate on projects in need of automated tests, security software, testing software, and General Transit Feed Specification ([GTFS](https://gtfs.org/)).
 
 <!--
