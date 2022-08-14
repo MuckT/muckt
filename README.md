@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 <div align="center">
-<p>I’m currently working at <a href="https://valoraapp.com/" target="_blank" rel="noopener noreferrer">Valora</a> as a software developer using <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">TypeScript</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">JavaScript</a>, <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">React Native</a>, <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">React</a> and <a href="https://wix.github.io/Detox/" target="_blank" rel="noopener noreferrer">Detox</a>.</p>
+<p>I’m currently working at <a href="https://valoraapp.com/" target="_blank" rel="noopener noreferrer">Valora</a> as a software developer using <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">TypeScript</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">JavaScript</a>, <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">React Native</a> and <a href="https://wix.github.io/Detox/" target="_blank" rel="noopener noreferrer">Detox</a>.</p>
 <p>I’m looking to collaborate on projects on <a href="https://celo.org/" target="_blank" rel="noopener noreferrer">Celo</a>, <a href="https://gtfs.org/" target="_blank" rel="noopener noreferrer">GTFS</a> validators, privacy focused mobile apps and mobile games.</p>
 </div>
 <br>
